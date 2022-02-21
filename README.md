@@ -21,7 +21,6 @@ Pronto para democratizar a Energia Solar no Brasil?
 <div style = "display: inline_block">
   <!-- Unity //-->
   <img align = "center" height = "30" widht = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  
 
   <!-- Vs Code //-->
   <img align = "center" height = "30" widht = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
