@@ -4,9 +4,9 @@ Pronto para democratizar a Energia Solar no Brasil?
 - Telefone: (11) 93752-3634
 - Linkedin: <a href = "https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/"> Thalita Silva </a>
   
-<div>
+<!-- <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaSolfacil&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 
 
 <h2>Sobre mim </h2>
